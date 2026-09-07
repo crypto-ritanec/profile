@@ -1,1 +1,1 @@
-git rm -r --cached .idea .gigaide
+Set-Content .gitignore ".idea/`n.gigaide/"
