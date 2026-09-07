@@ -1,1 +1,3 @@
 Set-Content .gitignore ".idea/`n.gigaide/"
+.gigaide/
+.idea/
