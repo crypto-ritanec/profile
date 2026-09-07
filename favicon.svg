@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-0bcca25b-757a-4cc9-892e-57f2f39e2564" data-name="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="uuid-3bddb3ae-7733-4163-a499-1517899e9a92">
+      <circle cx="32" cy="32" r="32" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g style="clip-path: url(#uuid-3bddb3ae-7733-4163-a499-1517899e9a92);">
+    <image width="400" height="400" transform="scale(.16)" xlink:href="avatar.jpg"/>
+  </g>
+</svg>
